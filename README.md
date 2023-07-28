@@ -4,8 +4,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigogranzotto173@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/digueraah/)
 
-(![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguera4k&show_icons=true&theme=dracula))
-
 ## Tecnologias que uso em alguns projetos
 
 <div style="display: inline_block">
