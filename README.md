@@ -1,10 +1,12 @@
 
 ### Olá! Eu sou Rodrigo! 👋
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguera4k&show_icons=true&theme=dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguera4k&layout=compact)
+<div align="center">
+  <a href="https://github.com/rodriguera4k">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguera4k&show_icons=true&theme=dark&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguera4k&layout=compact&theme=dark"/>
+  </a>
+</div>
 
 
 ## Tecnologias
