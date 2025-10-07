@@ -1,12 +1,7 @@
 
 ### Olá! Eu sou Rodrigo! 👋
 
-<div align="center">
-  <a href="https://github.com/rodriguera4k">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguera4k&show_icons=true&theme=dark&v=1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguera4k&layout=compact&theme=dark"/>
-  </a>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguera4k&layout=compact)
 
 
 ## Tecnologias
