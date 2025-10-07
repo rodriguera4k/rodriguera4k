@@ -1,13 +1,5 @@
 ### 👋 Olá! Eu sou o Rodrigo!
 
-<div align="center">
-
-![Rodrigo's GitHub stats](https://github-stats-rodrigo.vercel.app/api?username=rodriguera4k&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-</div>
-
----
-
 ## 🚀 Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
@@ -21,6 +13,14 @@
  <img style="padding:5px;" align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
  <img style="padding:5px;" align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  <img style="padding:5px;" align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+</div>
+
+---
+
+<div align="center">
+
+![Rodrigo's GitHub stats](https://github-stats-rodrigo.vercel.app/api?username=rodriguera4k&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
 </div>
 
 ---
