@@ -3,7 +3,6 @@
 <div align="center">
 
 ![Rodrigo's GitHub stats](https://github-stats-rodrigo.vercel.app/api?username=rodriguera4k&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-![Top Langs](https://github-stats-rodrigo.vercel.app/api/top-langs/?username=rodriguera4k&layout=compact&theme=tokyonight)
 
 </div>
 
