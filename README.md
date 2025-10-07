@@ -1,9 +1,11 @@
 
 ### Olá! Eu sou Rodrigo! 👋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigogranzotto173@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/digueraah/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-granzotto-0a6abb216/)
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguera4k&show_icons=true&theme=dark)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguera4k&layout=compact)
+
 
 ## Tecnologias
 
@@ -23,3 +25,8 @@
 ## 🚀 Sobre mim
 Sou um entusiasta da tecnologia e apaixonado por programação. Minha jornada no mundo da programação começou quando eu era apenas um adolescente curioso, e desde então venho explorando e aprendendo sobre diversas linguagens e tecnologias. Meu objetivo é contribuir para a criação de soluções inovadoras que tornem a vida das pessoas mais simples e eficiente.
 
+## Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigogranzotto173@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/digueraah/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-granzotto-0a6abb216/)
