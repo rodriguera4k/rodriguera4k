@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou o Rodrigo!
+### Rodrigo Granzotto
 
 ## 🚀 Tecnologias que utilizo
 
@@ -19,16 +19,22 @@
 
 ## 💬 Sobre mim
 
-Sou um entusiasta da tecnologia e apaixonado por programação.  
-Minha jornada começou na adolescência, movido pela curiosidade em entender como as coisas funcionam.  
-Desde então, venho explorando diferentes linguagens e tecnologias com o objetivo de criar soluções inovadoras que tornem a vida das pessoas mais simples e eficiente. 💡
+Full Stack Developer (Angular + Node.js)
 
----
+## 👨‍💻 Sobre mim
+Tenho mais de 6 anos de experiência no desenvolvimento de sistemas web, atuando principalmente com Angular, Node.js e PostgreSQL.
 
-## 📫 Como me encontrar
+Durante minha carreira, trabalhei majoritariamente com projetos privados em ambiente corporativo utilizando GitLab, desenvolvendo aplicações, APIs e integrações em produção.
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigogranzotto173@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/digueraah/)
+## 🚀 Stack principal
+- Angular
+- Node.js / AdonisJS
+- PostgreSQL
+
+## 📌 Observação
+Grande parte da minha experiência profissional está em repositórios privados (GitLab), não disponíveis publicamente.
+
+## 📩 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-granzotto-0a6abb216/)
 
 ---
