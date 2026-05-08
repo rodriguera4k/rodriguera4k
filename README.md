@@ -17,8 +17,6 @@
 
 ---
 
-## 💬 Sobre mim
-
 Full Stack Developer (Angular + Node.js)
 
 ## 👨‍💻 Sobre mim
