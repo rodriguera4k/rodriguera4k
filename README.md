@@ -16,7 +16,9 @@ Full Stack Developer (Angular + Node.js)
  <img style="padding:5px;" align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  <img style="padding:5px;" align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div>
+
 ---
+
 ## 👨‍💻 Sobre mim
 Tenho mais de 6 anos de experiência no desenvolvimento de sistemas web, atuando principalmente com Angular, Node.js e PostgreSQL.
 
