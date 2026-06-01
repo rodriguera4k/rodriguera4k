@@ -25,9 +25,9 @@ Tenho mais de 6 anos de experiência no desenvolvimento de sistemas web, atuando
 Durante minha carreira, trabalhei majoritariamente com projetos privados em ambiente corporativo utilizando GitLab, desenvolvendo aplicações, APIs e integrações em produção.
 
 ## 🚀 Stack principal
-- Angular
-- Node.js / AdonisJS
-- PostgreSQL
+- Angular / React / Python
+- Node.js / AdonisJS / NestJS
+- PostgreSQL / FireBase / MongoDB / Oracle
 
 ## 📌 Observação
 Grande parte da minha experiência profissional está em repositórios privados (GitLab), não disponíveis publicamente.
