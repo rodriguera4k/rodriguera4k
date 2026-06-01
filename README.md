@@ -22,7 +22,7 @@ Full Stack Developer
 ## 👨‍💻 Sobre mim
 Tenho mais de 6 anos de experiência no desenvolvimento de sistemas web, atuando principalmente com Angular, Node.js e PostgreSQL.
 
-Durante minha carreira, trabalhei majoritariamente com projetos privados em ambiente corporativo utilizando GitLab, desenvolvendo aplicações, APIs e integrações em produção.
+Durante minha carreira, trabalhei majoritariamente com projetos privados em ambiente corporativo utilizando GitLab/GitHub, desenvolvendo aplicações, APIs e integrações em produção.
 
 ## 🚀 Stack principal
 - Angular / React / Python
