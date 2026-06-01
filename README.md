@@ -1,6 +1,6 @@
 ### Rodrigo Granzotto
 
-Full Stack Developer (Angular + Node.js)
+Full Stack Developer
 
 ## 🚀 Tecnologias que utilizo
 
