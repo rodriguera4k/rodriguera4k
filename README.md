@@ -2,35 +2,87 @@
 
 Full Stack Developer
 
-## 🚀 Tecnologias que utilizo
+---
 
-<div style="display: inline_block"><br>
+## 🚀 Tecnologias
+
+### 🎨 Front-end
+<div style="display: inline_block">
  <img style="padding:5px;" align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img style="padding:5px;" align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white">
- <img style="padding:5px;" align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
- <img style="padding:5px;" align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
  <img style="padding:5px;" align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
- <img style="padding:5px;" align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
- <img style="padding:5px;" align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
- <img style="padding:5px;" align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img style="padding:5px;" align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>
+
+---
+
+### ⚙️ Back-end
+<div style="display: inline_block">
  <img style="padding:5px;" align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+ <img style="padding:5px;" align="center" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
  <img style="padding:5px;" align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div>
 
 ---
 
+### 🧠 Linguagens
+<div style="display: inline_block">
+ <img style="padding:5px;" align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+ <img style="padding:5px;" align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <img style="padding:5px;" align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+</div>
+
+---
+
+### 🗄️ Banco de Dados
+<div style="display: inline_block">
+ <img style="padding:5px;" align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img style="padding:5px;" align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+ <img style="padding:5px;" align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+ <img style="padding:5px;" align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+ <img style="padding:5px;" align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+</div>
+
+---
+
+### 📱 Mobile
+<div style="display: inline_block">
+ <img style="padding:5px;" align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</div>
+
+---
+
 ## 👨‍💻 Sobre mim
+
 Tenho mais de 6 anos de experiência no desenvolvimento de sistemas web, atuando principalmente com Angular, Node.js e PostgreSQL.
 
 Durante minha carreira, trabalhei majoritariamente com projetos privados em ambiente corporativo utilizando GitLab/GitHub, desenvolvendo aplicações, APIs e integrações em produção.
 
-## 🚀 Stack principal
-- Angular / React / Python
-- Node.js / AdonisJS / NestJS
-- PostgreSQL / FireBase / MongoDB / Oracle
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/rodriguera4k">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguera4k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguera4k&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rodriguera4k&theme=tokyonight" />
+</div>
+
+---
 
 ## 📌 Observação
 Grande parte da minha experiência profissional está em repositórios privados (GitLab), não disponíveis publicamente.
+
+---
 
 ## 📩 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-granzotto-0a6abb216/)
