@@ -12,6 +12,7 @@ Full Stack Developer
  <img style="padding:5px;" align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white">
  <img style="padding:5px;" align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
  <img style="padding:5px;" align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img style="padding:5px;" align="center" alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 
 ---
@@ -19,8 +20,10 @@ Full Stack Developer
 ### ⚙️ Back-end
 <div style="display: inline_block">
  <img style="padding:5px;" align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+ <img style="padding:5px;" align="center" alt="AdonisJS" src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white">
  <img style="padding:5px;" align="center" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
  <img style="padding:5px;" align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+ <img style="padding:5px;" align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
 ---
@@ -28,8 +31,17 @@ Full Stack Developer
 ### 🧠 Linguagens
 <div style="display: inline_block">
  <img style="padding:5px;" align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+ <img style="padding:5px;" align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img style="padding:5px;" align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  <img style="padding:5px;" align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+</div>
+
+---
+
+### 🔌 APIs & Arquitetura
+<div style="display: inline_block">
+ <img style="padding:5px;" align="center" alt="REST API" src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white">
+ <img style="padding:5px;" align="center" alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
 </div>
 
 ---
@@ -56,7 +68,9 @@ Full Stack Developer
 
 Tenho mais de 6 anos de experiência no desenvolvimento de sistemas web, atuando principalmente com Angular, Node.js e PostgreSQL.
 
-Durante minha carreira, trabalhei majoritariamente com projetos privados em ambiente corporativo utilizando GitLab/GitHub, desenvolvendo aplicações, APIs e integrações em produção.
+Experiência sólida na construção de APIs REST e GraphQL, integrações com ERPs e desenvolvimento de aplicações escaláveis em ambiente corporativo.
+
+Grande parte dos projetos desenvolvidos estão em ambientes privados (GitLab), incluindo sistemas em produção e integrações críticas.
 
 ---
 
