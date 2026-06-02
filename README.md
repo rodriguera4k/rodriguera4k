@@ -1,105 +1,118 @@
-### Rodrigo Granzotto
+<!-- BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Angular+%7C+Node.js+%7C+NestJS;APIs+REST+%7C+GraphQL;Building+Scalable+Solutions" />
+</p>
 
-Full Stack Developer
+<h1 align="center">Rodrigo Granzotto</h1>
+<h3 align="center">Full Stack Developer</h3>
+
+<p align="center">
+  🚀 +6 anos de experiência • 💼 Open to Work • 🌎 Brasil
+</p>
 
 ---
 
-## 🚀 Tecnologias
+## 🧠 Sobre mim
+
+Desenvolvedor Full Stack com forte atuação em aplicações web escaláveis, APIs e integrações com sistemas corporativos.
+
+Experiência sólida com **Angular, Node.js, PostgreSQL**, além de arquiteturas baseadas em **REST e GraphQL**.
+
+Atuação em ambientes corporativos com sistemas críticos, integrações com ERP e projetos em produção.
+
+---
+
+## 🚀 Stack Principal
 
 ### 🎨 Front-end
-<div style="display: inline_block">
- <img style="padding:5px;" align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img style="padding:5px;" align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white">
- <img style="padding:5px;" align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
- <img style="padding:5px;" align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img style="padding:5px;" align="center" alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</div>
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind" />
+</p>
 
 ### ⚙️ Back-end
-<div style="display: inline_block">
- <img style="padding:5px;" align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
- <img style="padding:5px;" align="center" alt="AdonisJS" src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white">
- <img style="padding:5px;" align="center" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
- <img style="padding:5px;" align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
- <img style="padding:5px;" align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div>
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,adonis,dotnet,php" />
+</p>
 
 ### 🧠 Linguagens
-<div style="display: inline_block">
- <img style="padding:5px;" align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
- <img style="padding:5px;" align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img style="padding:5px;" align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
- <img style="padding:5px;" align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-</div>
-
----
-
-### 🔌 APIs & Arquitetura
-<div style="display: inline_block">
- <img style="padding:5px;" align="center" alt="REST API" src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white">
- <img style="padding:5px;" align="center" alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-</div>
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart" />
+</p>
 
 ### 🗄️ Banco de Dados
-<div style="display: inline_block">
- <img style="padding:5px;" align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
- <img style="padding:5px;" align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
- <img style="padding:5px;" align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
- <img style="padding:5px;" align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
- <img style="padding:5px;" align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+</p>
 
 ---
 
-### 📱 Mobile
-<div style="display: inline_block">
- <img style="padding:5px;" align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-</div>
+## 🔌 APIs & Arquitetura
+
+- 🔹 REST APIs (Design, versionamento, integrações)
+- 🔹 GraphQL (queries eficientes e tipagem forte)
+- 🔹 Integração com ERPs e sistemas legados
+- 🔹 Arquitetura escalável e orientada a serviços
 
 ---
 
-## 👨‍💻 Sobre mim
+## 💼 Projetos em Destaque
 
-Tenho mais de 6 anos de experiência no desenvolvimento de sistemas web, atuando principalmente com Angular, Node.js e PostgreSQL.
+> ⚠️ Projetos reais em ambiente privado (GitLab). Abaixo uma visão das soluções desenvolvidas:
 
-Experiência sólida na construção de APIs REST e GraphQL, integrações com ERPs e desenvolvimento de aplicações escaláveis em ambiente corporativo.
+### 🏢 Portal B2B Corporativo
+- Sistema completo de pedidos, clientes e logística  
+- Integração com ERP  
+- Angular + Node.js + PostgreSQL  
 
-Grande parte dos projetos desenvolvidos estão em ambientes privados (GitLab), incluindo sistemas em produção e integrações críticas.
+---
+
+### 📦 Sistema de Gestão de Pedidos e Entregas
+- Rastreamento de pedidos e status logístico  
+- Processamento de dados em tempo real  
+- Integrações externas via API  
+
+---
+
+### 💳 Integração de Pagamentos (Pix / APIs)
+- Geração de QR Code Pix  
+- Comunicação com APIs financeiras  
+- Backend robusto com Node.js  
 
 ---
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <a href="https://github.com/rodriguera4k">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguera4k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguera4k&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguera4k&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguera4k&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🔥 Streak
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=rodriguera4k&theme=tokyonight" />
-</div>
+</p>
 
 ---
 
-## 📌 Observação
-Grande parte da minha experiência profissional está em repositórios privados (GitLab), não disponíveis publicamente.
+## 🌐 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-granzotto-0a6abb216/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 📩 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-granzotto-0a6abb216/)
+## 💡 Diferenciais
+
+- ✔ Experiência real em produção
+- ✔ Forte atuação com integrações
+- ✔ Projetos escaláveis e performáticos
+- ✔ Vivência com sistemas corporativos
 
 ---
 
